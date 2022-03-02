@@ -1,5 +1,5 @@
 body {
-  background-image: url(/images/blackjackBackground.jpg);
+  background-image: url("images/blackjackBackground.jpg");
   text-align: center;
   font-family: sans-serif;
   font-weight: bold;
