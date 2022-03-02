@@ -1,7 +1,7 @@
 body {
-  background-image: url("images/blackjackBackground.jpg");
+  background-image: url(/images/blackjackBackground.jpg);
   text-align: center;
-  font-family: sans-serif;
+  font-family: fantasy;
   font-weight: bold;
   font-kerning: auto;
   text-transform: capitalize;
