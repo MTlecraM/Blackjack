@@ -5,6 +5,7 @@ body {
   font-weight: bold;
   font-kerning: auto;
   text-transform: capitalize;
+  background-color: green;
 }
 button {
   width: 150px;
