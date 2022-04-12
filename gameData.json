@@ -1,4 +1,5 @@
-"oyunlar": [
+{
+  "oyunlar": [
 {
   "reqOS": [
     "Windows"
@@ -162,3 +163,4 @@
   ]
 }
 ]
+}
